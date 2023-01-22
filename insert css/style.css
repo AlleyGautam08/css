@@ -1,0 +1,13 @@
+body{
+     background-color: lightcoral;
+}
+h2{
+     color: black;
+     font-style: italic;
+     text-align: center;
+}
+p{
+     color: darkblue;
+     text-align: center;
+     font-style: oblique;
+}
